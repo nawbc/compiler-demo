@@ -1,0 +1,1 @@
+export { LexicalError } from './lexicalError'
